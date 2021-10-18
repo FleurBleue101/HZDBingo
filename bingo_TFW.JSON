@@ -35,12 +35,11 @@ bingoList[0] = [
   { name: "Complete 'The Hunters Three'", types: [] }, 6 ##
   { name: "Complete 'The Claws Beneath'", types: [] }, 5 ##
   
-  { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] }, 6 ##
+  { name: "Complete 'Ikrie's Challenge'", types: ["hgrounds", "ikrie"] }, 8 ##
   { name: "Complete 'The Survivor'", types: ["ikrie"] }, 6 ##
   
   { name: "Complete 'Geared Up: Stormslinger'", types: ["stormslinger"] }, 4 ##
   { name: "Complete 'Geared Up: Forgefire'", types: ["forgefire"] }, 5 ##
-  { name: "Complete 'Geared Up: Icerail'", types: ["icerail"] },
   
   { name: "Complete 'Out of the Forge'", types: [] }, 7 ##
   { name: "Complete 'Frontier Justice'", types: [] }, 8 ##
